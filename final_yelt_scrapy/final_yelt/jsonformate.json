@@ -1,0 +1,724 @@
+{
+    "filters": {
+        "languageCode": "en",
+        "query": "",
+        "sortType": "relevance_desc"
+    },
+    "reviewLanguages": [
+        {
+            "code": "en",
+            "count": 1457
+        },
+        {
+            "code": "de",
+            "count": 1
+        }
+    ],
+    "pagination": {
+        "resultsPerPage": 10,
+        "startResult": 210,
+        "totalResults": 1457
+    },
+    "reviews": [
+        {
+            "id": "uOvteTfQQFhEUjz_0WzCIQ",
+            "userId": "GEQAnQZ2TjwSWgqHZqirOQ",
+            "business": {
+                "id": "QOpqNPKpClL48TVVrYobAw",
+                "alias": "pizzetta-211-san-francisco",
+                "name": "Pizzetta 211",
+                "photoSrc": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg"
+            },
+            "user": {
+                "link": "/user_details?userid=GEQAnQZ2TjwSWgqHZqirOQ",
+                "src": "https://s3-media0.fl.yelpcdn.com/photo/dLXMRPHidy3CF_B1-PDFVQ/60s.jpg",
+                "srcSet": "https://s3-media0.fl.yelpcdn.com/photo/dLXMRPHidy3CF_B1-PDFVQ/ms.jpg 1.67x,https://s3-media0.fl.yelpcdn.com/photo/dLXMRPHidy3CF_B1-PDFVQ/120s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/photo/dLXMRPHidy3CF_B1-PDFVQ/90s.jpg 1.50x,https://s3-media0.fl.yelpcdn.com/photo/dLXMRPHidy3CF_B1-PDFVQ/168s.jpg 2.80x,https://s3-media0.fl.yelpcdn.com/photo/dLXMRPHidy3CF_B1-PDFVQ/180s.jpg 3.00x",
+                "markupDisplayName": "L M.",
+                "displayLocation": "San Francisco, CA",
+                "altText": "L M.",
+                "userUrl": "/user_details?userid=GEQAnQZ2TjwSWgqHZqirOQ",
+                "partnerAlias": null,
+                "friendCount": 2,
+                "photoCount": 3,
+                "reviewCount": 33,
+                "eliteYear": null
+            },
+            "comment": {
+                "text": "#1! #1! #1! I love Pizetta. Love the seasonal menu changes, you can always find something delicious. My favorite though is the rosemary and pine nut. Never gets old. I look forward to when things are &#34;back to normal&#34; to eat here again. Until then, I can walk over and get take out!",
+                "language": "en"
+            },
+            "localizedDate": "11/13/2020",
+            "localizedDateVisited": null,
+            "rating": 5,
+            "photos": [],
+            "lightboxMediaItems": [],
+            "photosUrl": "/biz_photos/pizzetta-211-san-francisco?userid=GEQAnQZ2TjwSWgqHZqirOQ",
+            "totalPhotos": 0,
+            "feedback": {
+                "counts": {
+                    "useful": 0,
+                    "funny": 0,
+                    "cool": 0
+                },
+                "userFeedback": {
+                    "useful": false,
+                    "funny": false,
+                    "cool": false
+                },
+                "voterText": null
+            },
+            "isUpdated": false,
+            "businessOwnerReplies": null,
+            "appreciatedBy": null,
+            "previousReviews": null,
+            "tags": []
+        },
+        {
+            "id": "FJQkTHjICAAq3DVGL1jVrQ",
+            "userId": "lLfcbYGTeVxQN5Ig0ompJg",
+            "business": {
+                "id": "QOpqNPKpClL48TVVrYobAw",
+                "alias": "pizzetta-211-san-francisco",
+                "name": "Pizzetta 211",
+                "photoSrc": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg"
+            },
+            "user": {
+                "link": "/user_details?userid=lLfcbYGTeVxQN5Ig0ompJg",
+                "src": "https://s3-media0.fl.yelpcdn.com/photo/Ijkx_EgTctLqg8kLZvs_hg/60s.jpg",
+                "srcSet": "https://s3-media0.fl.yelpcdn.com/photo/Ijkx_EgTctLqg8kLZvs_hg/ms.jpg 1.67x,https://s3-media0.fl.yelpcdn.com/photo/Ijkx_EgTctLqg8kLZvs_hg/120s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/photo/Ijkx_EgTctLqg8kLZvs_hg/90s.jpg 1.50x,https://s3-media0.fl.yelpcdn.com/photo/Ijkx_EgTctLqg8kLZvs_hg/168s.jpg 2.80x,https://s3-media0.fl.yelpcdn.com/photo/Ijkx_EgTctLqg8kLZvs_hg/180s.jpg 3.00x",
+                "markupDisplayName": "Elena N.",
+                "displayLocation": "San Francisco, CA",
+                "altText": "Elena N.",
+                "userUrl": "/user_details?userid=lLfcbYGTeVxQN5Ig0ompJg",
+                "partnerAlias": null,
+                "friendCount": 1851,
+                "photoCount": 13811,
+                "reviewCount": 3276,
+                "eliteYear": 2023
+            },
+            "comment": {
+                "text": "The roommate isn&#39;t a fan of frou frou pizzas. He&#39;d rather have a good Round Table pie versus an artisan pie from some fancy pizza place. Me? I can get down with a good slice of Round Table, but I do love artisan pizzas as well. Arugula on top? Yes please! Farm egg too? Give it to me! Finally in August 2013, the roommate agreed to try Pizzetta 211. We got take out.<br><br>*San marzano tomato sauce, mascarpone, wild arugula, olio verde ($14.95)<br>I love pies with arugula on top so I couldn&#39;t resist ordering this. The crust was nice and thin. The sauce showcased the sweetness of the tomatoes and contrasted the mascarpone well. A great simple pizza!<br><br>*Farm egg, bacon, early girl tomato, collard green, gruyere ($15.95)<br>Another thing I can&#39;t resist?! Topping a pizza with egg! The egg added a nice creaminess to the bacon, greens and gruyere cheese. And the slight sweetness and acidity from the tomato cut into the richness well. Yum!<br><br>I had a hard time deciding what I wanted to order when looking through all the pizzas. I really wanted to order like 3 or 4 different ones, but I restrained myself. Glad Pizzetta 211 is so close to home. I can drop by again to try more pizzas!",
+                "language": "en"
+            },
+            "localizedDate": "12/6/2014",
+            "localizedDateVisited": null,
+            "rating": 5,
+            "photos": [],
+            "lightboxMediaItems": [],
+            "photosUrl": "/biz_photos/pizzetta-211-san-francisco?userid=lLfcbYGTeVxQN5Ig0ompJg",
+            "totalPhotos": 0,
+            "feedback": {
+                "counts": {
+                    "useful": 3,
+                    "funny": 1,
+                    "cool": 3
+                },
+                "userFeedback": {
+                    "useful": false,
+                    "funny": false,
+                    "cool": false
+                },
+                "voterText": null
+            },
+            "isUpdated": false,
+            "businessOwnerReplies": null,
+            "appreciatedBy": null,
+            "previousReviews": null,
+            "tags": [
+                {
+                    "label": "2 photos",
+                    "title": null,
+                    "href": "/biz_photos/pizzetta-211-san-francisco?userid=lLfcbYGTeVxQN5Ig0ompJg",
+                    "iconName": "18x18_camera",
+                    "iconColor": ""
+                }
+            ]
+        },
+        {
+            "id": "X3A4sNcadtmC7NO3z8tCJg",
+            "userId": "n2JlACrljiWFx-k9EWt_jw",
+            "business": {
+                "id": "QOpqNPKpClL48TVVrYobAw",
+                "alias": "pizzetta-211-san-francisco",
+                "name": "Pizzetta 211",
+                "photoSrc": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg"
+            },
+            "user": {
+                "link": "/user_details?userid=n2JlACrljiWFx-k9EWt_jw",
+                "src": "https://s3-media0.fl.yelpcdn.com/photo/M7umF4CF3DInIb6T-0h-Qg/60s.jpg",
+                "srcSet": "https://s3-media0.fl.yelpcdn.com/photo/M7umF4CF3DInIb6T-0h-Qg/ms.jpg 1.67x,https://s3-media0.fl.yelpcdn.com/photo/M7umF4CF3DInIb6T-0h-Qg/120s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/photo/M7umF4CF3DInIb6T-0h-Qg/90s.jpg 1.50x,https://s3-media0.fl.yelpcdn.com/photo/M7umF4CF3DInIb6T-0h-Qg/168s.jpg 2.80x,https://s3-media0.fl.yelpcdn.com/photo/M7umF4CF3DInIb6T-0h-Qg/180s.jpg 3.00x",
+                "markupDisplayName": "Lori R.",
+                "displayLocation": "San Francisco, CA",
+                "altText": "Lori R.",
+                "userUrl": "/user_details?userid=n2JlACrljiWFx-k9EWt_jw",
+                "partnerAlias": null,
+                "friendCount": 202,
+                "photoCount": 273,
+                "reviewCount": 102,
+                "eliteYear": null
+            },
+            "comment": {
+                "text": "Cutest little pizza place ever. I just moved down the street from this place and I&#39;m super excited about it. My housemates and I wanted pizza so we ordered here. They told me it&#39;s amazing and it truly is. <br><br>The pizza with pine nuts was amazing. I&#39;ll get it again soon! The cheese and crust was cooked to perfection. We ordered to go so we only went to pick it up. The place was super cozy and romantic. I will definitely be coming back. Inside it was super small; about 4-5 tables and a couple outside. The feel was super relaxing as well. <br><br>This place is definitely a place to take a date, or if you live down the street like I do now! 5 stars for the service, atmosphere, and the food!",
+                "language": "en"
+            },
+            "localizedDate": "11/27/2016",
+            "localizedDateVisited": null,
+            "rating": 5,
+            "photos": [
+                {
+                    "src": "https://s3-media0.fl.yelpcdn.com/bphoto/O5St2_augFhKEArefHGjmw/300s.jpg",
+                    "link": "/biz_photos/pizzetta-211-san-francisco?reviewid=X3A4sNcadtmC7NO3z8tCJg&select=O5St2_augFhKEArefHGjmw",
+                    "altText": "Photo of Pizzetta 211 - San Francisco, CA, United States. Amazing pizza place!",
+                    "width": 300,
+                    "height": 300,
+                    "caption": "Amazing pizza place!"
+                }
+            ],
+            "lightboxMediaItems": [
+                {
+                    "business": {
+                        "alias": "pizzetta-211-san-francisco",
+                        "id": "QOpqNPKpClL48TVVrYobAw",
+                        "name": "Pizzetta 211"
+                    },
+                    "businessAvatar": {
+                        "altText": "Pizzetta 211",
+                        "height": 30,
+                        "src": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/30s.jpg",
+                        "srcSet": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/ss.jpg 1.33x,https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/90s.jpg 3.00x",
+                        "url": "/biz/pizzetta-211-san-francisco",
+                        "width": 30
+                    },
+                    "caption": "Amazing pizza place!",
+                    "helpfulCount": 0,
+                    "id": "O5St2_augFhKEArefHGjmw",
+                    "timeUploaded": "November 27, 2016",
+                    "type": "photo",
+                    "url": "https://s3-media0.fl.yelpcdn.com/bphoto/O5St2_augFhKEArefHGjmw/o.jpg",
+                    "user": {
+                        "avatar": {
+                            "linkUrl": "/user_details?userid=n2JlACrljiWFx-k9EWt_jw",
+                            "srcUrl": "https://s3-media0.fl.yelpcdn.com/photo/M7umF4CF3DInIb6T-0h-Qg/30s.jpg",
+                            "srcSetUrl": "https://s3-media0.fl.yelpcdn.com/photo/M7umF4CF3DInIb6T-0h-Qg/ss.jpg 1.33x,https://s3-media0.fl.yelpcdn.com/photo/M7umF4CF3DInIb6T-0h-Qg/60s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/photo/M7umF4CF3DInIb6T-0h-Qg/90s.jpg 3.00x"
+                        },
+                        "displayName": "Lori R.",
+                        "eliteYear": null,
+                        "friendCount": 202,
+                        "id": "n2JlACrljiWFx-k9EWt_jw",
+                        "isCurrentlyElite": false,
+                        "reviewCount": 102,
+                        "url": "/user_details?userid=n2JlACrljiWFx-k9EWt_jw"
+                    },
+                    "userVote": "NoVote"
+                }
+            ],
+            "photosUrl": "/biz_photos/pizzetta-211-san-francisco?userid=n2JlACrljiWFx-k9EWt_jw",
+            "totalPhotos": 1,
+            "feedback": {
+                "counts": {
+                    "useful": 3,
+                    "funny": 4,
+                    "cool": 1
+                },
+                "userFeedback": {
+                    "useful": false,
+                    "funny": false,
+                    "cool": false
+                },
+                "voterText": null
+            },
+            "isUpdated": false,
+            "businessOwnerReplies": null,
+            "appreciatedBy": null,
+            "previousReviews": null,
+            "tags": [
+                {
+                    "label": "1 photo",
+                    "title": null,
+                    "href": "/biz_photos/pizzetta-211-san-francisco?userid=n2JlACrljiWFx-k9EWt_jw",
+                    "iconName": "18x18_camera",
+                    "iconColor": ""
+                }
+            ]
+        },
+        {
+            "id": "s3fFJSlafuQBm6EQ8gBmjg",
+            "userId": "cFuKyBthZbVAi3qZ-YgMbA",
+            "business": {
+                "id": "QOpqNPKpClL48TVVrYobAw",
+                "alias": "pizzetta-211-san-francisco",
+                "name": "Pizzetta 211",
+                "photoSrc": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg"
+            },
+            "user": {
+                "link": "/user_details?userid=cFuKyBthZbVAi3qZ-YgMbA",
+                "src": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_styleguide/514f6997a318/assets/img/default_avatars/user_60_square.png",
+                "srcSet": null,
+                "markupDisplayName": "Sarah W.",
+                "displayLocation": "San Francisco, CA",
+                "altText": "Sarah W.",
+                "userUrl": "/user_details?userid=cFuKyBthZbVAi3qZ-YgMbA",
+                "partnerAlias": null,
+                "friendCount": 1,
+                "photoCount": 2,
+                "reviewCount": 18,
+                "eliteYear": null
+            },
+            "comment": {
+                "text": "Pizzas are delicious. Staff not wearing masks during prep time on two occasions when I walked by. I sent email the first time and received no response. On the second occasion I inquired about the absence of masking and the response was that I shouldn&#39;t eat there if it made me uncomfortable. Flip and haughty. Won&#39;t return during Covid and if you are observing protocols, I suggest you eat elsewhere as well.",
+                "language": "en"
+            },
+            "localizedDate": "4/9/2021",
+            "localizedDateVisited": null,
+            "rating": 2,
+            "photos": [],
+            "lightboxMediaItems": [],
+            "photosUrl": "/biz_photos/pizzetta-211-san-francisco?userid=cFuKyBthZbVAi3qZ-YgMbA",
+            "totalPhotos": 0,
+            "feedback": {
+                "counts": {
+                    "useful": 2,
+                    "funny": 2,
+                    "cool": 0
+                },
+                "userFeedback": {
+                    "useful": false,
+                    "funny": false,
+                    "cool": false
+                },
+                "voterText": null
+            },
+            "isUpdated": false,
+            "businessOwnerReplies": null,
+            "appreciatedBy": null,
+            "previousReviews": null,
+            "tags": []
+        },
+        {
+            "id": "3ngNrA3sD2uE7CBT0svCJg",
+            "userId": "9IZbQ_2q6pEhY4KyDzR6yw",
+            "business": {
+                "id": "QOpqNPKpClL48TVVrYobAw",
+                "alias": "pizzetta-211-san-francisco",
+                "name": "Pizzetta 211",
+                "photoSrc": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg"
+            },
+            "user": {
+                "link": "/user_details?userid=9IZbQ_2q6pEhY4KyDzR6yw",
+                "src": "https://s3-media0.fl.yelpcdn.com/photo/-eCubgyqBSVk5DeyfyEOGw/60s.jpg",
+                "srcSet": "https://s3-media0.fl.yelpcdn.com/photo/-eCubgyqBSVk5DeyfyEOGw/ms.jpg 1.67x,https://s3-media0.fl.yelpcdn.com/photo/-eCubgyqBSVk5DeyfyEOGw/120s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/photo/-eCubgyqBSVk5DeyfyEOGw/90s.jpg 1.50x,https://s3-media0.fl.yelpcdn.com/photo/-eCubgyqBSVk5DeyfyEOGw/168s.jpg 2.80x,https://s3-media0.fl.yelpcdn.com/photo/-eCubgyqBSVk5DeyfyEOGw/180s.jpg 3.00x",
+                "markupDisplayName": "Pablo L.",
+                "displayLocation": "Katy, TX",
+                "altText": "Pablo L.",
+                "userUrl": "/user_details?userid=9IZbQ_2q6pEhY4KyDzR6yw",
+                "partnerAlias": null,
+                "friendCount": 48,
+                "photoCount": 95,
+                "reviewCount": 97,
+                "eliteYear": null
+            },
+            "comment": {
+                "text": "Came here yesterday based on reviews and must say the reviews are right. I have had some good pizza in my lifetime but these pies right here take the cake!!! Wife and I had the Tomato, Mozzarella, Basil pizza with added pepperoni and holy cow, inhaled them in like 5 minutes. I normally like to put grated parmesan cheese and peppers on my pie, but nope, not on these. <br><br>We ordered these to go, but overall I give these pies a 10/10!!! Now, I&#39;m from Houston and dont claim to be a pizza connoisseur so if you go and hate it, I&#39;m sorry in advance. lol",
+                "language": "en"
+            },
+            "localizedDate": "7/14/2019",
+            "localizedDateVisited": null,
+            "rating": 5,
+            "photos": [],
+            "lightboxMediaItems": [],
+            "photosUrl": "/biz_photos/pizzetta-211-san-francisco?userid=9IZbQ_2q6pEhY4KyDzR6yw",
+            "totalPhotos": 0,
+            "feedback": {
+                "counts": {
+                    "useful": 0,
+                    "funny": 1,
+                    "cool": 0
+                },
+                "userFeedback": {
+                    "useful": false,
+                    "funny": false,
+                    "cool": false
+                },
+                "voterText": null
+            },
+            "isUpdated": false,
+            "businessOwnerReplies": null,
+            "appreciatedBy": null,
+            "previousReviews": null,
+            "tags": []
+        },
+        {
+            "id": "LINOZua3aOj6rva4ZrY8Cw",
+            "userId": "vTbQZNz8FH4jcrni7Vkl1Q",
+            "business": {
+                "id": "QOpqNPKpClL48TVVrYobAw",
+                "alias": "pizzetta-211-san-francisco",
+                "name": "Pizzetta 211",
+                "photoSrc": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg"
+            },
+            "user": {
+                "link": "/user_details?userid=vTbQZNz8FH4jcrni7Vkl1Q",
+                "src": "https://s3-media0.fl.yelpcdn.com/photo/AAJQFYAes8hRPJ1JkY0C1Q/60s.jpg",
+                "srcSet": "https://s3-media0.fl.yelpcdn.com/photo/AAJQFYAes8hRPJ1JkY0C1Q/ms.jpg 1.67x,https://s3-media0.fl.yelpcdn.com/photo/AAJQFYAes8hRPJ1JkY0C1Q/120s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/photo/AAJQFYAes8hRPJ1JkY0C1Q/90s.jpg 1.50x,https://s3-media0.fl.yelpcdn.com/photo/AAJQFYAes8hRPJ1JkY0C1Q/168s.jpg 2.80x,https://s3-media0.fl.yelpcdn.com/photo/AAJQFYAes8hRPJ1JkY0C1Q/180s.jpg 3.00x",
+                "markupDisplayName": "Oleg H.",
+                "displayLocation": "San Francisco, CA",
+                "altText": "Oleg H.",
+                "userUrl": "/user_details?userid=vTbQZNz8FH4jcrni7Vkl1Q",
+                "partnerAlias": null,
+                "friendCount": 227,
+                "photoCount": 81,
+                "reviewCount": 745,
+                "eliteYear": 2023
+            },
+            "comment": {
+                "text": "Another place that every time I visit i wonder why i dont do so more often. This place somehow manages to not decline in quality which is quite a feat; a lesser pizza destination would have gotten complacent. Not these guys - still world class.",
+                "language": "en"
+            },
+            "localizedDate": "2/27/2019",
+            "localizedDateVisited": null,
+            "rating": 5,
+            "photos": [],
+            "lightboxMediaItems": [],
+            "photosUrl": "/biz_photos/pizzetta-211-san-francisco?userid=vTbQZNz8FH4jcrni7Vkl1Q",
+            "totalPhotos": 0,
+            "feedback": {
+                "counts": {
+                    "useful": 1,
+                    "funny": 1,
+                    "cool": 1
+                },
+                "userFeedback": {
+                    "useful": false,
+                    "funny": false,
+                    "cool": false
+                },
+                "voterText": null
+            },
+            "isUpdated": true,
+            "businessOwnerReplies": null,
+            "appreciatedBy": null,
+            "previousReviews": [
+                {
+                    "id": "B7ca-jG6Bqp_HJoHXwQ08Q",
+                    "userId": "vTbQZNz8FH4jcrni7Vkl1Q",
+                    "business": {
+                        "id": "QOpqNPKpClL48TVVrYobAw",
+                        "alias": "pizzetta-211-san-francisco",
+                        "name": "Pizzetta 211",
+                        "photoSrc": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg"
+                    },
+                    "user": {
+                        "link": "/user_details?userid=vTbQZNz8FH4jcrni7Vkl1Q",
+                        "src": "https://s3-media0.fl.yelpcdn.com/photo/AAJQFYAes8hRPJ1JkY0C1Q/60s.jpg",
+                        "srcSet": "https://s3-media0.fl.yelpcdn.com/photo/AAJQFYAes8hRPJ1JkY0C1Q/ms.jpg 1.67x,https://s3-media0.fl.yelpcdn.com/photo/AAJQFYAes8hRPJ1JkY0C1Q/120s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/photo/AAJQFYAes8hRPJ1JkY0C1Q/90s.jpg 1.50x,https://s3-media0.fl.yelpcdn.com/photo/AAJQFYAes8hRPJ1JkY0C1Q/168s.jpg 2.80x,https://s3-media0.fl.yelpcdn.com/photo/AAJQFYAes8hRPJ1JkY0C1Q/180s.jpg 3.00x",
+                        "markupDisplayName": "Oleg H.",
+                        "displayLocation": "San Francisco, CA",
+                        "altText": "Oleg H.",
+                        "userUrl": "/user_details?userid=vTbQZNz8FH4jcrni7Vkl1Q",
+                        "partnerAlias": null,
+                        "friendCount": 227,
+                        "photoCount": 81,
+                        "reviewCount": 745,
+                        "eliteYear": 2023
+                    },
+                    "comment": {
+                        "text": "with over 600 yelp reviews and a solid 4 starts there&#39;s plenty of reasons to go to Pizetta 211. <br><br>I&#39;d like to give you one reason not to go: chances are you wont be able to enjoy most pizza (after this point) without thinking about how awesome it could&#39;ve been if it came from Pizetta 211.<br><br>On the serious note - everything was great. Starting with the special salad (which still makes me wonder - weeks later - &#34;how do you make plants taste like that?!?!?&#34;) and ending with the chocolate cake.",
+                        "language": "en"
+                    },
+                    "localizedDate": "10/3/2011",
+                    "localizedDateVisited": null,
+                    "rating": 5,
+                    "photos": [],
+                    "lightboxMediaItems": [],
+                    "photosUrl": "/biz_photos/pizzetta-211-san-francisco?userid=vTbQZNz8FH4jcrni7Vkl1Q",
+                    "totalPhotos": 0,
+                    "feedback": {
+                        "counts": {
+                            "useful": 1,
+                            "funny": 1,
+                            "cool": 1
+                        },
+                        "userFeedback": {
+                            "useful": false,
+                            "funny": false,
+                            "cool": false
+                        },
+                        "voterText": null
+                    },
+                    "isUpdated": false,
+                    "businessOwnerReplies": null,
+                    "appreciatedBy": null,
+                    "previousReviews": null,
+                    "tags": null
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "u62i1_bPvQQDjvQH5WfnQQ",
+            "userId": "-arccUR_CglxgzgdGpBrWQ",
+            "business": {
+                "id": "QOpqNPKpClL48TVVrYobAw",
+                "alias": "pizzetta-211-san-francisco",
+                "name": "Pizzetta 211",
+                "photoSrc": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg"
+            },
+            "user": {
+                "link": "/user_details?userid=-arccUR_CglxgzgdGpBrWQ",
+                "src": "https://s3-media0.fl.yelpcdn.com/photo/giuJamTVVP3j_RkX2ft97g/60s.jpg",
+                "srcSet": "https://s3-media0.fl.yelpcdn.com/photo/giuJamTVVP3j_RkX2ft97g/ms.jpg 1.67x,https://s3-media0.fl.yelpcdn.com/photo/giuJamTVVP3j_RkX2ft97g/120s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/photo/giuJamTVVP3j_RkX2ft97g/90s.jpg 1.50x,https://s3-media0.fl.yelpcdn.com/photo/giuJamTVVP3j_RkX2ft97g/168s.jpg 2.80x,https://s3-media0.fl.yelpcdn.com/photo/giuJamTVVP3j_RkX2ft97g/180s.jpg 3.00x",
+                "markupDisplayName": "Quentin L.",
+                "displayLocation": "Pinole, CA",
+                "altText": "Quentin L.",
+                "userUrl": "/user_details?userid=-arccUR_CglxgzgdGpBrWQ",
+                "partnerAlias": null,
+                "friendCount": 1,
+                "photoCount": 15,
+                "reviewCount": 34,
+                "eliteYear": null
+            },
+            "comment": {
+                "text": "Acceptable pizza with a few caveats. \u00a0One of my farm eggs was cooked all the way through and the pizza was medium warm rather than hot. This might be because it was sitting for a while before it was brought to me? \u00a0<br><br>The 2nd pizza was better than the first, but they went super light on the bacon. I will say...the butternut squash was perfect though. \u00a0I haven&#39;t had squash done this well before. <br> <br>Other than that, the pizza was adequate. \u00a0Service was okay. The kitchen staff really seem like the star here. Maybe that&#39;s why they are so highly rated.",
+                "language": "en"
+            },
+            "localizedDate": "12/31/2018",
+            "localizedDateVisited": null,
+            "rating": 4,
+            "photos": [],
+            "lightboxMediaItems": [],
+            "photosUrl": "/biz_photos/pizzetta-211-san-francisco?userid=-arccUR_CglxgzgdGpBrWQ",
+            "totalPhotos": 0,
+            "feedback": {
+                "counts": {
+                    "useful": 2,
+                    "funny": 1,
+                    "cool": 1
+                },
+                "userFeedback": {
+                    "useful": false,
+                    "funny": false,
+                    "cool": false
+                },
+                "voterText": null
+            },
+            "isUpdated": false,
+            "businessOwnerReplies": null,
+            "appreciatedBy": null,
+            "previousReviews": null,
+            "tags": []
+        },
+        {
+            "id": "q-Vrnc4R4UR9iutmqA5P6w",
+            "userId": "QmBg4ki0uJcyHObIEcH28Q",
+            "business": {
+                "id": "QOpqNPKpClL48TVVrYobAw",
+                "alias": "pizzetta-211-san-francisco",
+                "name": "Pizzetta 211",
+                "photoSrc": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg"
+            },
+            "user": {
+                "link": "/user_details?userid=QmBg4ki0uJcyHObIEcH28Q",
+                "src": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_styleguide/514f6997a318/assets/img/default_avatars/user_60_square.png",
+                "srcSet": null,
+                "markupDisplayName": "Christin J.",
+                "displayLocation": "San Francisco, CA",
+                "altText": "Christin J.",
+                "userUrl": "/user_details?userid=QmBg4ki0uJcyHObIEcH28Q",
+                "partnerAlias": null,
+                "friendCount": 0,
+                "photoCount": null,
+                "reviewCount": 10,
+                "eliteYear": null
+            },
+            "comment": {
+                "text": "I normally don&#39;t write reviews but I think it&#39;s important to let people know. When I got to the restaurant , it was pretty packed(I mean it&#39;s a Friday and a beautiful day out). I put my name down and asked how long the wait would be . The guy gave me a pretty wide range of 20min to 70min. Not only was he very rude about it, he didn&#39;t care to offer menu when I asked if we could order drinks . He made it very clear when he said \u00a0&#34; I don&#39;t have time to answer your questions because Im going to prioritize everyone else in line \u00a0and the phone calls coming in &#34;.. My friends and I decided to go get a drink for 30min and when we got back the same staff members told us that our name was called a long time ago and refused to seat us (again his tone was condescending). My friends and I decided to just order the food togo ( keep in mind they were still putting people on the waitlist) and they said they were &#34;out of pizza&#34;.. this is a pizza restaurant ... <br><br>I honestly would rather go to another restaurant.. \u00a0there are so many other places that could make incredible pizza Like Bella trattoria ! I mean , I woulda rather ordered round table at this point! Do not recommend!!! AT ALL!!",
+                "language": "en"
+            },
+            "localizedDate": "3/19/2021",
+            "localizedDateVisited": null,
+            "rating": 1,
+            "photos": [],
+            "lightboxMediaItems": [],
+            "photosUrl": "/biz_photos/pizzetta-211-san-francisco?userid=QmBg4ki0uJcyHObIEcH28Q",
+            "totalPhotos": 0,
+            "feedback": {
+                "counts": {
+                    "useful": 3,
+                    "funny": 0,
+                    "cool": 0
+                },
+                "userFeedback": {
+                    "useful": false,
+                    "funny": false,
+                    "cool": false
+                },
+                "voterText": null
+            },
+            "isUpdated": false,
+            "businessOwnerReplies": null,
+            "appreciatedBy": null,
+            "previousReviews": null,
+            "tags": []
+        },
+        {
+            "id": "lOWRX5Mpa6q3QbNxzFtXKg",
+            "userId": "mB50b5XbG05whEBXkQRA-w",
+            "business": {
+                "id": "QOpqNPKpClL48TVVrYobAw",
+                "alias": "pizzetta-211-san-francisco",
+                "name": "Pizzetta 211",
+                "photoSrc": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg"
+            },
+            "user": {
+                "link": "/user_details?userid=mB50b5XbG05whEBXkQRA-w",
+                "src": "https://s3-media0.fl.yelpcdn.com/photo/fIQmvFAc5vzcR8okr9hl6Q/60s.jpg",
+                "srcSet": "https://s3-media0.fl.yelpcdn.com/photo/fIQmvFAc5vzcR8okr9hl6Q/ms.jpg 1.67x,https://s3-media0.fl.yelpcdn.com/photo/fIQmvFAc5vzcR8okr9hl6Q/120s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/photo/fIQmvFAc5vzcR8okr9hl6Q/90s.jpg 1.50x,https://s3-media0.fl.yelpcdn.com/photo/fIQmvFAc5vzcR8okr9hl6Q/168s.jpg 2.80x,https://s3-media0.fl.yelpcdn.com/photo/fIQmvFAc5vzcR8okr9hl6Q/180s.jpg 3.00x",
+                "markupDisplayName": "Nancy M.",
+                "displayLocation": "Millbrae, CA",
+                "altText": "Nancy M.",
+                "userUrl": "/user_details?userid=mB50b5XbG05whEBXkQRA-w",
+                "partnerAlias": null,
+                "friendCount": 80,
+                "photoCount": 331,
+                "reviewCount": 458,
+                "eliteYear": 2023
+            },
+            "comment": {
+                "text": "Love this tiny hole in the wall find! \u00a0Fresh ingredients, original creations...a quaint neighborhood treasure. \u00a0Every time I visit I am never disappointed. \u00a0Pizza, bites, salads, wines and beers, desserts!",
+                "language": "en"
+            },
+            "localizedDate": "7/29/2017",
+            "localizedDateVisited": null,
+            "rating": 4,
+            "photos": [
+                {
+                    "src": "https://s3-media0.fl.yelpcdn.com/bphoto/bMUnae7aXMQnvv6P-FS9nw/300s.jpg",
+                    "link": "/biz_photos/pizzetta-211-san-francisco?reviewid=lOWRX5Mpa6q3QbNxzFtXKg&select=bMUnae7aXMQnvv6P-FS9nw",
+                    "altText": "Photo of Pizzetta 211 - San Francisco, CA, United States",
+                    "width": 300,
+                    "height": 300,
+                    "caption": null
+                }
+            ],
+            "lightboxMediaItems": [
+                {
+                    "business": {
+                        "alias": "pizzetta-211-san-francisco",
+                        "id": "QOpqNPKpClL48TVVrYobAw",
+                        "name": "Pizzetta 211"
+                    },
+                    "businessAvatar": {
+                        "altText": "Pizzetta 211",
+                        "height": 30,
+                        "src": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/30s.jpg",
+                        "srcSet": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/ss.jpg 1.33x,https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/90s.jpg 3.00x",
+                        "url": "/biz/pizzetta-211-san-francisco",
+                        "width": 30
+                    },
+                    "caption": null,
+                    "helpfulCount": 0,
+                    "id": "bMUnae7aXMQnvv6P-FS9nw",
+                    "timeUploaded": "July 29, 2017",
+                    "type": "photo",
+                    "url": "https://s3-media0.fl.yelpcdn.com/bphoto/bMUnae7aXMQnvv6P-FS9nw/o.jpg",
+                    "user": {
+                        "avatar": {
+                            "linkUrl": "/user_details?userid=mB50b5XbG05whEBXkQRA-w",
+                            "srcUrl": "https://s3-media0.fl.yelpcdn.com/photo/fIQmvFAc5vzcR8okr9hl6Q/30s.jpg",
+                            "srcSetUrl": "https://s3-media0.fl.yelpcdn.com/photo/fIQmvFAc5vzcR8okr9hl6Q/ss.jpg 1.33x,https://s3-media0.fl.yelpcdn.com/photo/fIQmvFAc5vzcR8okr9hl6Q/60s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/photo/fIQmvFAc5vzcR8okr9hl6Q/90s.jpg 3.00x"
+                        },
+                        "displayName": "Nancy M.",
+                        "eliteYear": 2023,
+                        "friendCount": 80,
+                        "id": "mB50b5XbG05whEBXkQRA-w",
+                        "isCurrentlyElite": true,
+                        "reviewCount": 458,
+                        "url": "/user_details?userid=mB50b5XbG05whEBXkQRA-w"
+                    },
+                    "userVote": "NoVote"
+                }
+            ],
+            "photosUrl": "/biz_photos/pizzetta-211-san-francisco?userid=mB50b5XbG05whEBXkQRA-w",
+            "totalPhotos": 1,
+            "feedback": {
+                "counts": {
+                    "useful": 0,
+                    "funny": 0,
+                    "cool": 0
+                },
+                "userFeedback": {
+                    "useful": false,
+                    "funny": false,
+                    "cool": false
+                },
+                "voterText": null
+            },
+            "isUpdated": false,
+            "businessOwnerReplies": null,
+            "appreciatedBy": null,
+            "previousReviews": null,
+            "tags": [
+                {
+                    "label": "1 photo",
+                    "title": null,
+                    "href": "/biz_photos/pizzetta-211-san-francisco?userid=mB50b5XbG05whEBXkQRA-w",
+                    "iconName": "18x18_camera",
+                    "iconColor": ""
+                }
+            ]
+        },
+        {
+            "id": "C_op0MJLjaimN1YZh1ltLg",
+            "userId": "4MadExKAG2cmOnCk-MDWDw",
+            "business": {
+                "id": "QOpqNPKpClL48TVVrYobAw",
+                "alias": "pizzetta-211-san-francisco",
+                "name": "Pizzetta 211",
+                "photoSrc": "https://s3-media0.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/60s.jpg"
+            },
+            "user": {
+                "link": "/user_details?userid=4MadExKAG2cmOnCk-MDWDw",
+                "src": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_styleguide/514f6997a318/assets/img/default_avatars/user_60_square.png",
+                "srcSet": null,
+                "markupDisplayName": "Katie T.",
+                "displayLocation": "San Francisco, CA",
+                "altText": "Katie T.",
+                "userUrl": "/user_details?userid=4MadExKAG2cmOnCk-MDWDw",
+                "partnerAlias": null,
+                "friendCount": 0,
+                "photoCount": null,
+                "reviewCount": 13,
+                "eliteYear": null
+            },
+            "comment": {
+                "text": "I came here recently and we waited over an hour for a table. My pizza came without cheese.. I think they just ran out.... It very late by the time we were seated. We were disappointed to say the least...",
+                "language": "en"
+            },
+            "localizedDate": "9/27/2021",
+            "localizedDateVisited": null,
+            "rating": 2,
+            "photos": [],
+            "lightboxMediaItems": [],
+            "photosUrl": "/biz_photos/pizzetta-211-san-francisco?userid=4MadExKAG2cmOnCk-MDWDw",
+            "totalPhotos": 0,
+            "feedback": {
+                "counts": {
+                    "useful": 0,
+                    "funny": 0,
+                    "cool": 0
+                },
+                "userFeedback": {
+                    "useful": false,
+                    "funny": false,
+                    "cool": false
+                },
+                "voterText": null
+            },
+            "isUpdated": false,
+            "businessOwnerReplies": null,
+            "appreciatedBy": null,
+            "previousReviews": null,
+            "tags": []
+        }
+    ]
+}

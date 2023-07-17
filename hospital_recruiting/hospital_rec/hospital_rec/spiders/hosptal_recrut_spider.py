@@ -1,0 +1,78 @@
+import scrapy
+
+
+class HosptalRecrutSpiderSpider(scrapy.Spider):
+    name = "hosptal_recrut_spider"
+    url = f"https://www.hospitalrecruiting.com/"
+    def start_requests(self):
+        yield scrapy.Request(self.url,
+                                method="GET",
+                                headers={ 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'},
+                                callback=self.parse,
+                                dont_filter=True    
+                                  )
+    def parse(self, response):
+        state_list = ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "Washington, D.C.", "West Virginia", "Wisconsin", "Wyoming"]
+        for state in state_list:
+            country=state.replace("-",'').replace(", ","-").replace(".","").replace(" ","-")
+            path=f"https://www.hospitalrecruiting.com/jobs/Physician-Jobs/{country}/?numberjobs=100"
+            n=2
+            yield scrapy.Request(path,
+                        method="GET",
+                        headers={ 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'},
+                        meta={"path":path,"n":n},
+                        callback=self.parse_Jobs,
+                        dont_filter=True    
+                        )
+    def parse_Jobs(self, response):
+        n=response.meta['n']
+        path=response.meta['path']
+        all_job=response.xpath("//div[@class='col-1 mobile-column']//span[@class='action']/a[@class='btn green small radius floatleft']")
+        for job in all_job:
+            href=job.attrib['href']
+            yield scrapy.Request(href,
+                        method="GET",
+                        headers={ 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'},
+                        meta={"href":href,"path":path},
+                        callback=self.parse_get_data,
+                        dont_filter=True    
+                        )  
+            
+        next_page=response.xpath(".//div[@id='results_container']//div[@class='hide-mobile']/a[@class='next page-numbers']/@href").get()
+        if next_page:
+            print(next_page,"??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????")
+            next=f"{path}&page={n}"
+            n+=1
+            yield scrapy.Request(next,
+                        method="GET",
+                        headers={ 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'},
+                        meta={"href":href,"path":path,"n":n},
+                        callback=self.parse_Jobs,
+                        dont_filter=True    
+                        )
+
+    def parse_get_data(self, response):
+        path=response.meta['path']
+        href=response.meta['href']    
+        title = response.xpath('.//h1/text()').get()
+        company = response.xpath('.//div[@id="job_details_container"]/span[1]/span[2]/a/text()').get()
+        Specialty =response.xpath('.//div[@id="job_details_container"]/span[2]/span[2]/a/text()').get()
+        Location = response.xpath(".//div[@id='job_details_container']/span[3]/span[2]/span[1]/text()").get()
+        Job_Type = response.xpath('.//div[@id="job_details_container"]/span[4]/span[2]/text()').get()
+        discription = ''.join(response.xpath(".//div[@class='job_description_container']//text()").getall()).replace("\n", "").replace("\t", "").strip()
+        about = ''.join(response.xpath(".//div[@id='org_info_container']//text()").getall()).replace("\n", "").replace("\t", "").strip()
+        yield {
+            "Domain":"hospitalrecruiting.com",
+            "href":href,
+            "title":title,
+            "company":company,
+            'Specialty':Specialty,
+            "Location":Location,
+            "Job_Type":Job_Type,
+            "discription":discription,
+            "about":about
+        }
+                   
+
+            
+
