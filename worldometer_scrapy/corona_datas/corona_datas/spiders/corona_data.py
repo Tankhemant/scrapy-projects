@@ -14,15 +14,15 @@ class CoronaDataSpider(scrapy.Spider):
 
     def __init__(self):
         options = Options()
-        options.add_argument("--headless")  # Run Chrome in headless mode
-        service = Service(ChromeDriverManager().install())  # Path to your ChromeDriver executable
+        options.add_argument("--headless") 
+        service = Service(ChromeDriverManager().install())  
         self.driver = webdriver.Chrome(service=service, options=options)
 
     def parse(self, response):
         self.driver.get(response.url)
         WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.ID, "main_table_countries_today")))
 
-        # Extract the HTML content after JavaScript rendering
+
         html = self.driver.page_source
         selector = Selector(text=html)
 
